@@ -1,4 +1,4 @@
-package basics;
+package strings;
 
 /** A class that stores a string as an instance variable
  * and has many useful methods for manipulating the string.

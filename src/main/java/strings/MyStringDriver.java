@@ -1,9 +1,8 @@
-package basics;
+package strings;
 
 /** A class that uses your MyString class. Use it to test MyString. */
 class MyStringDriver {
 	public static void main(String[] args) {
-		
 		MyString sp = new MyString("Hello World");
 
 		// FILL IN CODE: call containsCharacter to check if 'e' is in sp
